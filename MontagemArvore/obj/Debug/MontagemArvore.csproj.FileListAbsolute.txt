@@ -1,0 +1,7 @@
+D:\01-Rafael\Desenvolvimento\Projetos\0-GitHub\ECTH-Consultoria-MontagemArvore\MontagemArvore\bin\Debug\MontagemArvore.exe.config
+D:\01-Rafael\Desenvolvimento\Projetos\0-GitHub\ECTH-Consultoria-MontagemArvore\MontagemArvore\bin\Debug\MontagemArvore.exe
+D:\01-Rafael\Desenvolvimento\Projetos\0-GitHub\ECTH-Consultoria-MontagemArvore\MontagemArvore\bin\Debug\MontagemArvore.pdb
+D:\01-Rafael\Desenvolvimento\Projetos\0-GitHub\ECTH-Consultoria-MontagemArvore\MontagemArvore\obj\Debug\MontagemArvore.csprojResolveAssemblyReference.cache
+D:\01-Rafael\Desenvolvimento\Projetos\0-GitHub\ECTH-Consultoria-MontagemArvore\MontagemArvore\obj\Debug\MontagemArvore.csproj.CoreCompileInputs.cache
+D:\01-Rafael\Desenvolvimento\Projetos\0-GitHub\ECTH-Consultoria-MontagemArvore\MontagemArvore\obj\Debug\MontagemArvore.exe
+D:\01-Rafael\Desenvolvimento\Projetos\0-GitHub\ECTH-Consultoria-MontagemArvore\MontagemArvore\obj\Debug\MontagemArvore.pdb
